@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hilos</string>
+    <string name="hiloPrincipal">Ejecutar hilo principal</string>
+    <string name="hiloSecundario">Ejecutar hilo secundario</string>
+    <string name="hiloSecundarioFinal">Ejecutar hilo final secundario</string>
+
+</resources>
